@@ -147,6 +147,16 @@ How to Run (Demo Mode)
 4. Access dashboard via gateway IP address
 
 ---
+Live Demonstration (Prototype)
+
+A preliminary dashboard was deployed during development to demonstrate data flow
+and system behavior.
+
+🔗 Demo link: https://streetlightcms.web.app
+
+Note: This dashboard represents an early demonstration version.
+The final dashboard design and logic are available in this repository.
+
 
 Author
 
